@@ -1,2 +1,2 @@
-# SVM_and_hyperparameter_testing
+# SVM and Hyperparameter Testing
 Using SVM to predict breast cancer, optimizing the different hyperparameters
